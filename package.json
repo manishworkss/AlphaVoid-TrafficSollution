@@ -1,0 +1,25 @@
+{
+  "name": "alphavoid_strategic_traffic-_solution",
+  "version": "1.0.0",
+  "description": "Traffic Management System",
+  "main": "Frontend.js",
+"scripts": {
+    "start": "node Frontend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishcoder92/AlphaVoid_Strategic_Traffic-_solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manishcoder92/AlphaVoid_Strategic_Traffic-_solution/issues"
+  },
+  "homepage": "https://github.com/manishcoder92/AlphaVoid_Strategic_Traffic-_solution#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
